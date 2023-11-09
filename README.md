@@ -17,5 +17,5 @@ Ho concluso da poco il corso intensivo con Boolean Careers e sono alla ricerca d
 🔭 Skills >> 
 
 HTML | CSS | Bootstrap | SCSS  
-Javascript | Vue.js | Vite | Node.js
+Javascript | Vue.js | Vite | Node.js <br>
 mySQL | PHP | Laravel
