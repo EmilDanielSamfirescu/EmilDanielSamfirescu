@@ -19,3 +19,8 @@ Ho concluso da poco il corso intensivo con Boolean Careers e sono alla ricerca d
 HTML | CSS | Bootstrap | SCSS  
 Javascript | Vue.js | Vite | Node.js <br>
 mySQL | PHP | Laravel
+
+
+[<img align="left" alt="Daniel Samfirescu | Linkedin" width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] <strong>:rocket: Visita il mio profilo Linkedin</strong>
+
+[linkedin]: https://www.linkedin.com/in/daniel-samfirescu-sed/
