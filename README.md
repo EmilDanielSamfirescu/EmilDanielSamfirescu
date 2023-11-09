@@ -21,6 +21,7 @@ Javascript | Vue.js | Vite | Node.js <br>
 mySQL | PHP | Laravel
 
 
-[<img align="left" alt="Daniel Samfirescu | Linkedin" width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] <strong>:rocket: Visita il mio profilo Linkedin</strong>
+<strong> Visita il mio profilo Linkedin</strong>
+[<img align="left" alt="Daniel Samfirescu | Linkedin" width="130px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
 
 [linkedin]: https://www.linkedin.com/in/daniel-samfirescu-sed/
